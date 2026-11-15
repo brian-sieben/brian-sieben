@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 296" width="920" height="296" role="img" aria-labelledby="t d">
   <title id="t">The method around the model</title>
-  <desc id="d">Timeline. Research: flow efficiency, evaluating efficiency without a reference value; this research continues as a branch alongside the commercial work. From 2006: performance pricing, Processbench, formalised as the German standard VDI 2817. 2012 to 2025: Hilti, the buyer's side of procurement on SAP Ariba. Now: SupplyConnect, swappable language models under control loops.</desc>
+  <desc id="d">Timeline. Research: flow efficiency, evaluating efficiency without ground truth; this research continues as a branch alongside the commercial work. From 2006: performance pricing, Processbench, formalised as the German standard VDI 2817. 2012 to 2025: Hilti, the buyer's side of procurement on SAP Ariba. Now: SupplyConnect, swappable language models under control loops.</desc>
   <text x="4" y="52" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.6" fill="#9198a1">FROM STATISTICAL MODELS TO LANGUAGE MODELS</text>
   <text x="4" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#f0f6fc">The method around the model</text>
   <path d="M 13 158 C 13 141 22 132 40 132 L 898 132" fill="none" stroke="#3fb950" stroke-width="2" stroke-linecap="round" stroke-dasharray="1 7"/>
@@ -26,7 +26,7 @@
   </g>
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" fill="#9198a1">
     <text x="4" y="250">Evaluating efficiency</text>
-    <text x="4" y="269">without a reference value</text>
+    <text x="4" y="269">without ground truth</text>
     <text x="240" y="250">Processbench; formalised as</text>
     <text x="240" y="269">German standard VDI 2817</text>
     <text x="476" y="250">The buyer's side of</text>
