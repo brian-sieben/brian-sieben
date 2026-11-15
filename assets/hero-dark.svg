@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 296" width="900" height="296" role="img" aria-labelledby="t d">
+  <title id="t">The method around the model</title>
+  <desc id="d">Timeline. 2006: Processbench, machine learning prices a part from its value drivers. 2018 and 2021: VDI 2817, the method becomes a German standard. Now: SupplyConnect, language models in a harness of prompts, gates and checks. Next: flow efficiency, research, online soon.</desc>
+  <text x="4" y="52" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.6" fill="#9198a1">FROM STATISTICAL MODELS TO LANGUAGE MODELS</text>
+  <text x="4" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#f0f6fc">The method around the model</text>
+  <line x1="13" y1="158" x2="493" y2="158" stroke="#3fb950" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="515" y1="158" x2="721" y2="158" stroke="#9198a1" stroke-width="2" stroke-dasharray="2 9" stroke-linecap="round"/>
+  <circle cx="13" cy="158" r="7" fill="#3fb950"/>
+  <circle cx="253" cy="158" r="7" fill="#3fb950"/>
+  <circle cx="493" cy="158" r="15" fill="#3fb950" fill-opacity="0.18"/>
+  <circle cx="493" cy="158" r="8.5" fill="#3fb950"/>
+  <circle cx="733" cy="158" r="7" fill="none" stroke="#9198a1" stroke-width="2"/>
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.2" fill="#9198a1">
+    <text x="4" y="198">2006</text>
+    <text x="244" y="198">2018 · 2021</text>
+    <text x="484" y="198" font-weight="600" fill="#3fb950">NOW</text>
+    <text x="724" y="198">NEXT</text>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#f0f6fc">
+    <text x="4" y="226">Processbench</text>
+    <text x="244" y="226">VDI 2817</text>
+    <text x="484" y="226">SupplyConnect</text>
+    <text x="724" y="226">Flow efficiency</text>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" fill="#9198a1">
+    <text x="4" y="250">Machine learning prices a part</text>
+    <text x="4" y="269">from its value drivers</text>
+    <text x="244" y="250">The method becomes</text>
+    <text x="244" y="269">a German standard</text>
+    <text x="484" y="250">Language models in a harness</text>
+    <text x="484" y="269">of prompts, gates and checks</text>
+    <text x="724" y="250">Research,</text>
+    <text x="724" y="269">online soon</text>
+  </g>
+</svg>
