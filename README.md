@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brian-sieben/brian-sieben/main/assets/hero-dark.svg?v=5">
-  <img src="https://raw.githubusercontent.com/brian-sieben/brian-sieben/main/assets/hero-light.svg?v=5" width="100%" alt="The method around the model. 2006: Processbench, machine learning prices a part from its value drivers. 2018 and 2021: VDI 2817, the method becomes a German standard. Research: flow efficiency, doctoral research, online soon. Now: SupplyConnect, swappable language models under control loops.">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brian-sieben/brian-sieben/main/assets/hero-dark.svg?v=6">
+  <img src="https://raw.githubusercontent.com/brian-sieben/brian-sieben/main/assets/hero-light.svg?v=6" width="100%" alt="The method around the model. Research: flow efficiency, evaluating efficiency without a reference value; this research continues as a branch alongside the commercial work. From 2006: performance pricing, Processbench, formalised as the German standard VDI 2817. 2012 to 2025: Hilti, the buyer's side of procurement on SAP Ariba. Now: SupplyConnect, swappable language models under control loops.">
 </picture>
 
 I am co-founder and CEO of [SupplyConnect](https://supplyconnect.ch), where I build the control architecture that lets language models connect suppliers to procurement platforms such as SAP Ariba.
