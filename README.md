@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brian-sieben/brian-sieben/main/assets/hero-dark.svg?v=4">
-  <img src="https://raw.githubusercontent.com/brian-sieben/brian-sieben/main/assets/hero-light.svg?v=4" width="100%" alt="The method around the model. 2006: Processbench, machine learning prices a part from its value drivers. 2018 and 2021: VDI 2817, the method becomes a German standard. Now: SupplyConnect, swappable language models under control loops. Next: flow efficiency, research, online soon.">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brian-sieben/brian-sieben/main/assets/hero-dark.svg?v=5">
+  <img src="https://raw.githubusercontent.com/brian-sieben/brian-sieben/main/assets/hero-light.svg?v=5" width="100%" alt="The method around the model. 2006: Processbench, machine learning prices a part from its value drivers. 2018 and 2021: VDI 2817, the method becomes a German standard. Research: flow efficiency, doctoral research, online soon. Now: SupplyConnect, swappable language models under control loops.">
 </picture>
 
 I am co-founder and CEO of [SupplyConnect](https://supplyconnect.ch), where I build the control architecture that lets language models connect suppliers to procurement platforms such as SAP Ariba. Before that I co-founded Processbench, whose machine-learning method for pricing parts became the German standard VDI 2817, and I was Head of Sourcing Excellence at Hilti.
