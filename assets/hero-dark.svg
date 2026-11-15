@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 296" width="920" height="296" role="img" aria-labelledby="t d">
   <title id="t">Order in dynamic systems under uncertainty</title>
-  <desc id="d">Timeline. Research: Fraunhofer, evaluating efficiency without ground truth; the flow efficiency research continues as a branch alongside the commercial work. From 2006: Processbench, performance pricing, German standard VDI 2817. 2012 to 2025: Hilti, the buyer's side of procurement on SAP Ariba. Now: SupplyConnect, swappable language models under control loops.</desc>
+  <desc id="d">Timeline. Research: Fraunhofer, doctoral research on flow efficiency; evaluation without ground truth continues as a branch alongside the commercial work. From 2006: Processbench, performance pricing, German standard VDI 2817. 2012 to 2025: Hilti, the buyer's side of procurement on SAP Ariba. Now: SupplyConnect, swappable language models under control loops.</desc>
   <text x="4" y="52" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.6" fill="#9198a1">FROM STATISTICAL MODELS TO LANGUAGE MODELS</text>
   <text x="4" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#f0f6fc">Order in dynamic systems under uncertainty</text>
   <path d="M 13 158 C 13 141 22 132 40 132 L 898 132" fill="none" stroke="#3fb950" stroke-width="2" stroke-linecap="round" stroke-dasharray="1 7"/>
   <path d="M 892 126 L 900 132 L 892 138" fill="none" stroke="#3fb950" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="44" y="123" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="1.2" fill="#9198a1">FLOW EFFICIENCY RESEARCH CONTINUES ALONGSIDE</text>
+  <text x="44" y="123" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="1.2" fill="#9198a1">EVALUATION WITHOUT GROUND TRUTH CONTINUES ALONGSIDE</text>
   <line x1="13" y1="158" x2="721" y2="158" stroke="#3fb950" stroke-width="2.5" stroke-linecap="round"/>
   <circle cx="13" cy="158" r="7" fill="#3fb950"/>
   <circle cx="249" cy="158" r="7" fill="#3fb950"/>
@@ -25,8 +25,8 @@
     <text x="712" y="226">SupplyConnect</text>
   </g>
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" fill="#9198a1">
-    <text x="4" y="250">Evaluating efficiency</text>
-    <text x="4" y="269">without ground truth</text>
+    <text x="4" y="250">Doctoral research on</text>
+    <text x="4" y="269">flow efficiency</text>
     <text x="240" y="250">Performance pricing;</text>
     <text x="240" y="269">German standard VDI 2817</text>
     <text x="476" y="250">The buyer's side of</text>
